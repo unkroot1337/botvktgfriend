@@ -23,17 +23,13 @@ const t = new (require('node-telegram-bot-api'))(token, {
 });
 
 const groups = [
-  "kamdee",
-  "follow4like",
-  "dobavsia_v_druzia",
-  "7x.prikol",
-  "club94946045",
+  "dobavdobavdobavdobav23",
+  "vzaimnolikess",
   "spottsila",
-  "twi79",
+  "piar_promotion_vk",
   "dobav_like_repost_piar",
   "club148406719",
   "wormix_plus",
-  "zbs_111",
   "laik_tamee",
   "go2friends",
   "club39130136",
@@ -51,7 +47,10 @@ const groups = [
   "club126891886",
   "club111998170",
   "paradise_35",
-  "club128297298"
+  "club128297298",
+  "gold_piar",
+  "vzaimno_likess",
+
 ]
 
 const db = new FileSync('db.json'),
