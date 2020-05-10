@@ -28,28 +28,21 @@ const groups = [
   "spottsila",
   "piar_promotion_vk",
   "dobav_like_repost_piar",
-  "club148406719",
   "wormix_plus",
-  "laik_tamee",
-  "go2friends",
   "club39130136",
   "club46258034",
-  "add_me123",
-  "cheesveshka",
-  "vp_vkpub1",
   "dobav_menya_esli_xochesh",
   "club92431911",
   "spisokbezpodpisok",
-  "followers_0",
-  "club112451007",
-  "1d1o1b1a1v1",
-  "club101697796",
-  "club126891886",
-  "club111998170",
-  "paradise_35",
-  "club128297298",
-  "gold_piar",
-  "vzaimno_likess",
+  "vzaimnolikess",
+  "club99839307",
+  "club181176513",
+  "dobav_menya_esli_xochesh",
+  "follow4like",
+  "piar_go_ilita",
+
+
+
 
 ]
 
