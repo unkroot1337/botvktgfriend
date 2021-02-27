@@ -39,12 +39,7 @@ const groups = [
   "club181176513",
   "dobav_menya_esli_xochesh",
   "follow4like",
-  "piar_go_ilita",
-
-
-
-
-]
+  "piar_go_ilita"]
 
 const db = new FileSync('db.json'),
       lowdb = low(db),
